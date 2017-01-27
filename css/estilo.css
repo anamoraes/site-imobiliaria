@@ -1,0 +1,31 @@
+.navbar{
+	margin-bottom: 0px;
+}
+
+.principal{
+	margin-top: 30px
+}
+
+.border{
+	border: 1px solid;
+}
+
+.rodape{
+	margin-top: 20px;
+}
+
+.slide{
+	margin-top: 50px;
+}
+
+.rodape{
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #e7e7e7;
+    width: 100%;
+    display: table;
+}
+
+.carrinho{
+	margin: 8px 5px;
+}
